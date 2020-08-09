@@ -2,7 +2,7 @@
 
 In this lab you will continue where we left off in the last lab of kubernetes, where you were tasked with building a wordpress application.
 
-*Make sure to get a working application before continuing. If you need one - ask the instructor for a lab-3 solution*
+*Make sure to get a working application for lab 3 before continuing. If you want one - ask the instructor for a lab-3 solution or use your own*
 
 In this lab your job is to create a new helm chart of your own that replicates your solution to the previous lab.
 
