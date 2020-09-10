@@ -21,7 +21,7 @@ This includes the adding of additional labels, database password, and image vers
 The ending state should be a helm chart that can be installed successfully with the default values and allow for values to be overriden.
 
 
-**Extra credit** - Make another additional chart that behaves similar - but uses an external chart for the mysql database.
+**for extra practice** - Make another additional chart that behaves similar - but uses an external chart for the mysql database.
 
 
 **notes**
