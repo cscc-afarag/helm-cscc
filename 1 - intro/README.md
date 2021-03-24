@@ -29,7 +29,7 @@ sudo mv linux-amd64/helm /user/local/bin/helm
 
 add the stable repo
 ```
-helm repo add stable https://kubernetes-charts.storage.googleapis.com/
+helm repo add stable https://charts.helm.sh/stable
 ```
 and update
 
