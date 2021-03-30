@@ -166,10 +166,12 @@ This should behave like before - since all we are doing is pointing to a tar vs 
 
 ## Adding dependencies
 
-Helm allows you to use other charts as dependencies using a requiremnts file. lets make one.
+Helm allows you to use other charts as dependencies by updating the Chart.yml. lets update it and add a dependency.
+
+read the helm dependency docs [here](https://helm.sh/docs/helm/helm_dependency/)
 
 ```
-touch chart/requirements.yaml
+vim chart/Chart.yaml
 ```
 
 lets add a dependency, in the file add the following
